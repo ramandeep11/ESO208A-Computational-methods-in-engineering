@@ -1,0 +1,5 @@
+The temperature at node 0.000000 is 5.000000
+The temperature at node 0.500000 is 4.687932
+The temperature at node 1.000000 is 3.726669
+The temperature at node 1.500000 is 2.479547
+The temperature at node 2.000000 is 1.634737
